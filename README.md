@@ -10,7 +10,9 @@ This is a curated list of HackMGM team members and their skillsets
 * Click "Commit changes"
 * Click "Create pull request"
 
-## Chuk Shirley
+## Profiles
+
+### Chuk Shirley
 * **Title:** Software developer  
 * **Primary languages:** PHP, JavaScript, HTML(5), CSS  
 * **Primary frameworks:** Zend Framework 2, Zend Framework 3

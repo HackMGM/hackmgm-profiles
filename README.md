@@ -19,3 +19,12 @@ This is a curated list of HackMGM team members and their skillsets
 * **Secondary languages:** Python, RPG
 * **Secondary frameworks:** Zend Expressive, AngularJS 1  
 * **Operating Systems:** IBM i, Mac
+
+### Kenny Robinson
+* **Title:** Programmer Analyst
+* **Primary languages:** PHP, HTML, CSS, Shell Scripting, PL/SQL
+* **Primary frameworks:** Drupal
+* **Secondary languages:** Python, JavaScript, Java, Batch Scripting
+* **Secondary frameworks:** None
+* **Operating Systems:** Ubuntu Linux, Windows
+* **Database Systems:** MySQL, Oracle

@@ -27,4 +27,4 @@ This is a curated list of HackMGM team members and their skillsets
 * **Secondary languages:** Python, JavaScript, Java, Batch Scripting
 * **Secondary frameworks:** None
 * **Operating Systems:** Ubuntu Linux, Windows
-*.**Database Systems:** MySQL, Oracle
+* **Database Systems:** MySQL, Oracle

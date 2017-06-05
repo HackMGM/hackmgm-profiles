@@ -28,3 +28,12 @@ This is a curated list of HackMGM team members and their skillsets
 * **Secondary frameworks:** None
 * **Operating Systems:** Ubuntu Linux, Windows
 * **Database Systems:** MySQL, Oracle
+
+### Elijah Lofgren
+* **Title:** Software Developer
+* **Primary languages:** C#, JavaScript, HTML, 
+* **Primary frameworks:** ASP.NET, jQuery, Angular.JS, Meteor.js
+* **Secondary languages:** 
+* **Secondary frameworks:** 
+* **Operating Systems:** Ubuntu Linux, Windows
+* **Database Systems:** SQL Server, MongoDB

@@ -37,3 +37,12 @@ This is a curated list of HackMGM team members and their skillsets
 * **Secondary frameworks:** 
 * **Operating Systems:** Ubuntu Linux, Windows
 * **Database Systems:** SQL Server, MongoDB
+
+### James Meisler
+* **Title:** Software Developer
+* **Primary languages:** PHP, Javascript, Python
+* **Primary frameworks:** Slim, Laravel, CodeIgniter, Angularjs, CanJS
+* **Secondary languages:** Go, Typescript, C/C++
+* **Secondary frameworks:** Angular2/4, Vue.js, .Net Core
+* **Operating Systems:** Linux, MacOS
+* **Database Systems:** Postgresql, MySQL, MongoDB

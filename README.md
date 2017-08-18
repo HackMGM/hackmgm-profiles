@@ -46,3 +46,7 @@ This is a curated list of HackMGM team members and their skillsets
 * **Secondary frameworks:** Angular2/4, Vue.js, .Net Core
 * **Operating Systems:** Linux, MacOS
 * **Database Systems:** Postgresql, MySQL, MongoDB
+
+### Jacqueline McKinney
+* **Title:** Software Engineer
+* **Primary languages:** PHP, Javascript, Python, C++

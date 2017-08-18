@@ -13,11 +13,11 @@ This is a curated list of HackMGM team members and their skillsets
 ## Profiles
 
 ### Chuk Shirley
-* **Title:** Software developer  
-* **Primary languages:** PHP, JavaScript, HTML(5), CSS  
+* **Title:** Software developer
+* **Primary languages:** PHP, JavaScript, HTML(5), CSS
 * **Primary frameworks:** Zend Framework 2, Zend Framework 3
 * **Secondary languages:** Python, RPG
-* **Secondary frameworks:** Zend Expressive, AngularJS 1  
+* **Secondary frameworks:** Zend Expressive, AngularJS 1
 * **Operating Systems:** IBM i, Mac
 
 ### Kenny Robinson
@@ -31,10 +31,10 @@ This is a curated list of HackMGM team members and their skillsets
 
 ### Elijah Lofgren
 * **Title:** Software Developer
-* **Primary languages:** C#, JavaScript, HTML, 
+* **Primary languages:** C#, JavaScript, HTML
 * **Primary frameworks:** ASP.NET, jQuery, Angular.JS, Meteor.js
-* **Secondary languages:** 
-* **Secondary frameworks:** 
+* **Secondary languages:**
+* **Secondary frameworks:**
 * **Operating Systems:** Ubuntu Linux, Windows
 * **Database Systems:** SQL Server, MongoDB
 
@@ -50,3 +50,12 @@ This is a curated list of HackMGM team members and their skillsets
 ### Jacqueline McKinney
 * **Title:** Software Engineer
 * **Primary languages:** PHP, Javascript, Python, C++
+
+### Doug Hall
+* **Title:** Software Development Manager
+* **Primary languages:** [Ruby](https://www.ruby-lang.org/en/), JavaScript, HTML, CSS
+* **Primary frameworks:** [4th Dimension](http://www.4d.com/), [Ruby on Rails](http://rubyonrails.org/)
+* **Secondary languages:** [Elixir](https://elixir-lang.org/)
+* **Secondary frameworks:** [Phoenix](http://phoenixframework.org/), [Ember](https://emberjs.com/)
+* **Operating Systems:** Mac, [Ubuntu Linux](https://www.ubuntu.com/)
+* **Database Systems:** [Postgresql](https://www.postgresql.org/)

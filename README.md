@@ -59,3 +59,12 @@ This is a curated list of HackMGM team members and their skillsets
 * **Secondary frameworks:** [Phoenix](http://phoenixframework.org/), [Ember](https://emberjs.com/)
 * **Operating Systems:** Mac, [Ubuntu Linux](https://www.ubuntu.com/)
 * **Database Systems:** [Postgresql](https://www.postgresql.org/)
+
+### Willie Thompson
+* **Title:** UX Designer
+* **Primary languages:** TBD
+* **Primary frameworks:** TBD
+* **Secondary languages:** See Primary Languages
+* **Secondary framworks:** See Primary Frameworks
+* **Operating Systems:** Windows
+* **Database systems:** TBD
